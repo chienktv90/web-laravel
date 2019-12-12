@@ -1,0 +1,3 @@
+1. cấu trúc html
+2. ký tự đặc biệt
+3. định dạng chuỗi gạch chân, in nghiêng, chữ đậm 
